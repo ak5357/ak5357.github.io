@@ -24,7 +24,7 @@ If you'd like to learn more about this website, visit [this page](about.html).
 
 ```{r build_site, include = FALSE, eval = FALSE}
 # This chunk builds my site because RStudio freezes whenever I try to do it via the GUI
-rmd_files = c("index.Rmd", "about.Rmd", "plots.Rmd", "plotly.Rmd")
+rmd_files = c("index.Rmd", "about.Rmd", "plots.Rmd", "plotly.Rmd", "dashboard.Rmd")
 map(rmd_files, rmarkdown::render)
 ```
 
