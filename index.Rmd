@@ -21,15 +21,3 @@ Here's a picture I took earlier this year when my best friend and I visited the 
 
 <img src="images/wat_arun.jpeg" style="width:50%">
 
-
-
-
-
-```{r build_site, include = FALSE, eval = FALSE}
-# This chunk builds my site because RStudio freezes whenever I try to do it via the GUI
-c("index.Rmd", "about.Rmd", "dashboard_landing.Rmd") |> 
-  map(rmarkdown::render)
-rmarkdown::render("dashboard_view.Rmd", output_format = "flexdashboard::flex_dashboard")
-
-```
-
