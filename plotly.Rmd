@@ -11,3 +11,12 @@ _Return to [Home Page](index.html)._
 # Here are some plots
 
 Today we're making interactive plots in plotly
+
+
+```{r eval = FALSE}
+rmarkdown::render("index.Rmd")
+rmarkdown::render("about.Rmd")
+rmarkdown::render("plots.Rmd")
+rmarkdown::render("plotly.Rmd")
+```
+
