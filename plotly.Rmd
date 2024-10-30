@@ -1,0 +1,13 @@
+---
+title: "Plots"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+_Return to [Home Page](index.html)._
+
+# Here are some plots
+
+Today we're making interactive plots in plotly
