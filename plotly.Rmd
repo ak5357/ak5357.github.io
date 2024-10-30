@@ -12,13 +12,3 @@ _Return to [Home Page](index.html)._
 
 Today we're making interactive plots in plotly
 
-
-```{r eval = FALSE}
-build_site = function(){
-  rmarkdown::render("index.Rmd")
-  rmarkdown::render("about.Rmd")
-  rmarkdown::render("plots.Rmd")
-  rmarkdown::render("plotly.Rmd")
-}
-```
-
