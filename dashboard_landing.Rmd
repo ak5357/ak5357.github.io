@@ -18,7 +18,7 @@ _The dashboard will open in a new tab._
 
 The following code chunks demonstrate how I created the plots that are shown in the [Dashboard](dashboard_view.html){target="_blank}.
 
-```{r plotly_library_setup, include = FALSE}
+```{r plotly_library_setup, include = FALSE, eval = FALSE}
 library(tidyverse)
 library(p8105.datasets)
 library(plotly)
@@ -31,7 +31,7 @@ library(stringr)
 
 The code chunk below shows how the data was imported from the RNOAA package and edited to meet my needs for the purposes of this dashboard.
 
-```{r import_data, message = FALSE}
+```{r import_data, message = FALSE, eval = FALSE}
 # Import Data
 weather_df = 
   rnoaa::meteo_pull_monitors(
@@ -63,7 +63,7 @@ weather_df = weather_df |>
 
 The chart below shows average daily temperatures for the three locations documented in the RNOAA weather dataset: Central Park, NY; Molokai, HI; and Waterhole, WA
 
-```{r, message = FALSE}
+```{r, message = FALSE, eval = FALSE}
 weather_df |> 
   plot_ly(x = ~month, y = ~tavg, color = ~name_str,
           type = "scatter", mode = "markers") |> 
@@ -78,7 +78,7 @@ weather_df |>
 
 The chart below shows the temperature distribution for each month in 2022. The boxplots below contain data from all three locations in the dataset.
 
-```{r, message = FALSE}
+```{r, message = FALSE, eval = FALSE}
 weather_df |> 
   filter(year(month) == 2022) |> 
   mutate(
@@ -98,7 +98,7 @@ weather_df |>
 
 The last chart shows the ten "rainiest" (or more accurately, highest precipitation) dates in Waterhole, WA. I'm from Washington, so I chose the location from my very lovely and very rainy home state.
 
-```{r, message = FALSE, warning = FALSE}
+```{r, message = FALSE, warning = FALSE, eval = FALSE}
 weather_df |> 
   drop_na() |> 
   filter(name == "Waterhole_WA", !(date %in% c(as.Date("2022-04-05"), as.Date("2022-12-26")))) |> 
