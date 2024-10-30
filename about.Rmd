@@ -6,10 +6,123 @@ output:
     toc_float: true
 ---
 
-_Return to [Home Page](index.html)._
 
-# Information about this website
+This page contains information about my academic and professional background.
 
-This website was made as an example in [P8105](https://p8105.com) for "Making Websites". I'm making an RMD and will use GitHub for hosting.
+# Summary
+
+* Technical background in data analysis and visualization using GIS and programming (Python, R, SQL, etc.)
+* Passionate about utilizing data science to investigate environmental and public health issues.
+* Quick learner, creative, detail-oriented, and flexible. Strong technical writing skills.
+
+# Work Experience
+
+**Student Research Worker | Columbia University | New York, NY | Sep. 2024 - Present**
+
+* Assisting in the evaluation of research data through data analysis techniques in R.
+
+**Graduate Intern | King County | Seattle, WA | May 2024 - Sep. 2024**
+
+* Extracting stormwater facility data from Technical Information Reports to improve public-facing County apps.
+* Providing field support for ground-truthing stormwater infrastructure in King County spatial datasets.
+
+**GIS/Data Analyst | Herrera Environmental Consultants | Seattle, WA | Oct. 2022 - Jan. 2024**
+
+* Created custom geospatial products for internal clients to use in external-facing reports, communications, etc.
+* Programmed in Python/R/SQL/Arcade to automate calculations, manipulate data, and create visualizations.
+* Routinely assisted field operations monitoring storm and surface water under changing weather conditions.
+
+**Environmental Technician | WA State Dept. of Ecology | Shoreline, WA | Nov. 2021 - Jun. 2022**
+
+* Digitized water rights using GIS software to create robust databases & maps for regulatory compliance.
+* Interpreted legal documents, referenced external maps and data sources, and migrated spatial data.
+
+**Research Intern | Gates Ventures | Kirkland, WA | Jul. 2020 - Aug. 2020**
+
+* Conducted research on trends in online media and communications to support a cross-functional PR team.
+* Analyzed data from various sources, including social media platforms and industry reports, to identify insights.
+
+# Education and Certifications
+
+**M.S. Environmental Health Data Science** | Present - 2025
+
+Columbia University | Mailman School of Public Health | New York, NY
+
+**B.A. with Honors in Geography: Data Science, Minor in Informatics** | 2022
+
+University of Washington | Seattle, WA
+
+* Mary Gates Scholar
+* Husky Seed Fund Grant Recipient
+* Departmental “Outstanding Senior” Award Recipient
+
+**AutoCAD Certification** | 2019
+
+Seattle Central College | Seattle, WA
+
+# Other Experience
+
+**Instructor | Anga Kala Kathak Academy | Redmond, WA**
+
+_Aug. 2019 - Present_
+
+* Instructing dance classes for students of various ages & skill levels, fostering a supportive learning space.
+* Organizing curriculum for exams and recitals, developing lesson plans tailored to individual and group needs.
+
+**Undergraduate Mentor | UW Geography Department | Seattle, WA**
+
+_Jan. 2024 - Mar. 2024_
+
+* Mentored undergraduate students in the course GEOG 491: Professional Development for Geographers.
+* Shared advice and anecdotes on career development through alumni panel and informational interview.
 
 
+**Volunteer Project Manager | Arts Without Borders | Seattle, WA & Cleveland, OH**
+
+_Oct. 2020 - Apr. 2022_
+* Led cross-regional grant writing team, for timely submission and compliance with grant requirements.
+* Collaborated with stakeholders to develop project plans, allocate resources, and monitor progress.
+
+# Student Leadersip Experience
+
+**Committee Chair | EverybodyHacks | University of Washington (UW)**
+
+_Jun. 2021 - Jun. 2022_
+
+* Secured a $2,400 Husky Seed Fund Grant to fund UW’s first totally interdisciplinary hackathon.
+* Recruited and directed 20+ undergraduate students to organize the hackathon and a four-part panel series.
+
+**Founder/Director | GeoDat Society for Geography & Data Science | UW**
+
+_Feb. 2021 - Jun. 2022_
+
+* Led interdisciplinary undergraduate research team, mentoring teammates in research methods.
+* Investigated social and environmental justice issues (e.g. environmental health disparity, water scarcity).
+
+**Co-Editor in Chief | Plenum Undergraduate Geography Research Journal | UW**
+
+_Oct. 2020 - Jun. 2021_
+
+* Collaborated with the editorial board to establish the journal’s vision, goals, and editorial policies.
+* Directed editorial meetings, delegated tasks, and ensured effective communication among team members.
+
+# Projects
+
+**Research Essay / Thesis**
+
+* Systemic Limitations of Public Health Research and Environmental Justice in Seattle (Undergraduate Honors Thesis) ([_View Here_](https://saffronandsunlight.wordpress.com/2022/05/23/systemic-limitations-in-public-health-research-environmental-justice-in-seattle/))
+* Health Disparity, Socioeconomic Inequity, Environmental Pollution, and How Geography Ties Them All Together ([_View Here_](https://saffronandsunlight.wordpress.com/2021/01/02/health-disparity-socioeconomic-inequity-environmental-pollution-and-how-geography-ties-them-all-together/))
+* An Investigation into the “Institute of Free Speech”: On the Inequity of Microtargeting and Political Manipulation ([_View Here_]())
+
+**Atlas**
+
+* Environmental Health Disparity in California’s San Joaquin Valley ([_View Here_](https://saffronandsunlight.wordpress.com/2021/01/02/environmental-health-disparity-in-california-state-a-visual-investigation-of-asthma-at-the-intersection-of-poverty-and-pollution/))
+
+
+**StoryMap**
+
+* Civil Rights and Seattle ([_View Here_](https://saffronandsunlight.wordpress.com/2020/07/21/civil-rights-and-seattle-a-story-map-on-the-geography-and-history-of-civil-rights-in-our-city/))
+
+**Technical Writing**
+
+* Implementing a Basic SQL Database ([_View Here_](https://saffronandsunlight.wordpress.com/2020/09/08/how-to-make-a-basic-sql-database/))

@@ -1,22 +1,20 @@
-name: "Yay internet!"
+name: "P8105 HW 4"
 output_dir: "."
 navbar:
-  title: "Best Site Ever"
+  title: "Arghya's Website"
   right:
+    - text: "Home"
+      href: index.html
     - text: "About"
       href: about.html
-    - text: "Plots"
-      href: plots.html
-    - text: "Plotly"
-      href: plotly.html
     - text: "Dashboard"
-      href: dashboard.html
+      href: dashboard_landing.html
     - icon: fa-envelope fa-lg
       href: mailto:<ak5357@cumc.columbia.edu>
     - icon: fa-github fa-lg
       href: http://github.com/ak5357/
-    - icon: fa-solid fa-sailboat
-      href: https://opentug.com/
+    - icon: fa-brands fa-linkedin
+      href: https://www.linkedin.com/in/arghya-k/
 output:
   html_document:
-    theme: cerulean
+    theme: journal
